@@ -3,6 +3,7 @@ Weekly Updated NFL Stats
 
 The site guides the user through weekly statistical updtes from the NFL. Site includes mobile-friendly version as well as real-time stats updates via the Tank01 NFL API. Upon clicking on a team button, user is presented with team-specific stats, refreshed every 10 minutes. User is also presented with an "Offensive Player of the Week" and "Defensive Player of the Week" accolade, coded to top individual offensive and defensive statistics, respectively.
 
+Website Link: https://kevinjbutler1994.github.io/NFL-Weekly-Rundown/
 API: balldontlie.io
 
 MVP: Team name, city, offensive stats, defensive stats
